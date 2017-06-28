@@ -3,7 +3,7 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
+
 
 ## Module Number: BDK03
 
